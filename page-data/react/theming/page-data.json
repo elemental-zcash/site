@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-react-theming-mdx",
     "path": "/react/theming/",
-    "result": {"pageContext":{"frontmatter":{}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Theming","type":"Section"}}},
     "staticQueryHashes": ["3649515864"]}

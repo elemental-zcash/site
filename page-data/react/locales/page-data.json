@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-react-locales-mdx",
     "path": "/react/locales/",
-    "result": {"pageContext":{"frontmatter":{}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Locales","type":"Section"}}},
     "staticQueryHashes": ["3649515864"]}

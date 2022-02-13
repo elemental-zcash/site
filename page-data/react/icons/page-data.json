@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-react-icons-mdx",
     "path": "/react/icons/",
-    "result": {"pageContext":{"frontmatter":{}}},
+    "result": {"pageContext":{"frontmatter":{"title":"Icons","type":"Section"}}},
     "staticQueryHashes": ["3649515864"]}

@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-react-buttons-js",
+    "componentChunkName": "component---src-pages-react-buttons-mdx",
     "path": "/react/buttons/",
-    "result": {"pageContext":{}},
-    "staticQueryHashes": []}
+    "result": {"pageContext":{"frontmatter":{"title":"Buttons","source":"https://github.com/elemental-zcash/react/"}}},
+    "staticQueryHashes": ["3649515864"]}
